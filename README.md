@@ -6,16 +6,24 @@ I’m an Artificial Intelligence student at the Federal University of Goiás, co
 Currently, I’m building Clareia — an educational platform that leverages gamification and AI to help students get into their dream university.
 </div>
 
+---
+
 <div>  
   
 ## 🎓 Academic Qualification
 - Undergraduate in Artificial Intelligence by Federal University of Goiás
 </div>
 
+---
+
 ## 🔥 Streak Counter
 
 <div>
-  <img height="180em" src="https://streak-stats.demolab.com?user=gus-drt&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <table>
+    <tr><td valign="center" halign="center" width="100%">
+      <img height="180em" src="https://streak-stats.demolab.com?user=gus-drt&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    </td></tr>
+  </table>
 </div>
 
 ## 📈 GitHub Stats
