@@ -4,7 +4,6 @@
 I’m an Artificial Intelligence student at the Federal University of Goiás.
 </div>
 
----
 
 <div>  
   
