@@ -1,9 +1,7 @@
 <div>
   
 # Hi 👋, I'm Gustavo Duarte!
-I’m an Artificial Intelligence student at the Federal University of Goiás, co-founder of Clareia, and AI researcher.
-
-Currently, I’m building Clareia — an educational platform that leverages gamification and AI to help students get into their dream university.
+I’m an Artificial Intelligence student at the Federal University of Goiás.
 </div>
 
 ---
