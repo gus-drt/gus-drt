@@ -1,7 +1,9 @@
 <div>
   
-# Hi 👋, I'm Gustavo Duarte!
-I’m an Artificial Intelligence student at the Federal University of Goiás.
+# Hi, I'm Gustavo Duarte! 🚀
+
+I’m a passionate Artificial Intelligence student at UFG, diving deep into Natural Language Processing (NLP) and AI Agent development through innovative personal projects. 
+My research focuses on pushing the boundaries of AI to create impactful solutions and advance the field.
 </div>
 
 
