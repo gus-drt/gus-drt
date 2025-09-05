@@ -19,7 +19,7 @@ My research focuses on pushing the boundaries of AI to create impactful solution
 <div>
   <table>
     <tr><td valign="center" halign="center" width="100%">
-      <img height="180em" src="https://streak-stats.demolab.com?user=gus-drt" alt="GitHub Streak" />
+      <img height="180em" src="https://streak-stats.demolab.com?user=gus-drt&theme=dark" alt="GitHub Streak" />
     </td></tr>
   </table>
 </div>
@@ -30,7 +30,7 @@ My research focuses on pushing the boundaries of AI to create impactful solution
   <table>
     <tr>
       <td valign="center" width="50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gus-drt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gus-drt&show_icons=true&theme=dark&include_all_commits=true"/>
       </td>
       <td valign="center" width="50%">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-drt&layout=compact&langs_count=7&theme=dark"/>
