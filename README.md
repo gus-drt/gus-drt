@@ -6,7 +6,6 @@ I’m a passionate Artificial Intelligence student at UFG, diving deep into Natu
 My research focuses on pushing the boundaries of AI to create impactful solutions and advance the field.
 </div>
 
-
 <div>  
   
 ## 🎓 Academic Qualification
