@@ -33,7 +33,7 @@ My research focuses on pushing the boundaries of AI to create impactful solution
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gus-drt&show_icons=true&theme=dark&include_all_commits=true"/>
       </td>
       <td valign="center" width="50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-drt&layout=compact&langs_count=7&theme=dark"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-drt&langs_count=7&theme=dark"/>
       </td>
     </tr>
   </table>
