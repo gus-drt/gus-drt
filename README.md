@@ -12,16 +12,6 @@ My research focuses on pushing the boundaries of AI to create impactful solution
 - Undergraduate in Artificial Intelligence by Federal University of Goiás
 </div>
 
-## 🔥 Streak Counter
-
-<div>
-  <table>
-    <tr><td valign="center" halign="center" width="100%">
-      <img height="180em" src="https://streak-stats.demolab.com?user=gus-drt&theme=dark" alt="GitHub Streak" />
-    </td></tr>
-  </table>
-</div>
-
 ## 📈 GitHub Stats
 
 <div>
