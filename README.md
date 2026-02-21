@@ -4,7 +4,7 @@ I'm an AI Student at the Federal University of Goiás (UFG). I'm passionate abou
 
 #### Reach me out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavodrt) [![Mail Badge](https://img.shields.io/badge/-gustavoduarte-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)(mailto:gustavoduarte@discente.ufg.br)] [![Instagram Badge](https://img.shields.io/badge/-@gus.drt-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/gus.drt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavodrt) [![Mail Badge](https://img.shields.io/badge/-gustavoduarte-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gustavoduarte@discente.ufg.br) [![Instagram Badge](https://img.shields.io/badge/-@gus.drt-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/gus.drt/)
 
 #### Learning & Interests
 
