@@ -5,15 +5,15 @@ I'm an AI Student at the Federal University of Goiás (UFG). I'm passionate abou
 #### Reach me out!
 
 <a href="https://www.linkedin.com/in/gustavodrt" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:gustavoduarte@discente.ufg.br" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-gustavoduarte-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="https://www.instagram.com/gus.drt/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-@gus.drt-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <a href="https://huggingface.co/gus-drt" target="_blank" rel ="noopener noreferrer">
