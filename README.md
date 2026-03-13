@@ -16,6 +16,14 @@ I'm an AI Student at the Federal University of Goiás (UFG). I'm passionate abou
   <img src="https://img.shields.io/badge/-@gus.drt-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
+<a href="https://huggingface.co/gus-drt" target="_blank" rel ="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="HuggingFace">
+</a>
+
+<a href="https://www.kaggle.com/gusdrt" target="_blank" rel ="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
+</a>
+
 #### Learning & Interests
 
 - 🧠 Machine Learning Operations  
