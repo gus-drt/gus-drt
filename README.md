@@ -1,6 +1,17 @@
 ## Hi, I'm Gustavo Duarte! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm an AI Student at the Federal University of Goiás (UFG). I'm passionate about emergent technologies and i spend my time diving deep into machine learning, natural language processing and multi-agent systems projects. My research focuses on pushing the boundaries of AI. Let's connect!
+**AI Researcher | NLP & MLOps Enthusiast | Creator of GraphNotes**
+Currently, I am pursuing a Bachelor's degree in Artificial Intelligence at **UFG**, where I work as a volunteer researcher at the **Center of Excellence in AI (CEIA)**. My current work focuses on Computer Vision applied to sustainability, developing infrastructure for classifying recyclable waste in partnership with the startup Hambis.
+
+### ️ What am I working on:
+* **GraphNotes:** Developing an open-source alternative for network thinking (bi-directional links) using Markdown and offline storage (IndexedDB). Currently in MVP phase.
+
+* **CEIA & AKCIT:** Scientific outreach and robotics demonstrations (humanoids and quadrupeds) to foster partnerships between universities and the private sector.
+
+* **Studies:** Deep immersion in **NLP** and **MLOps**, actively participating in study groups at UFG focusing on real-world applications and the market.
+
+### My Vision:
+I believe that code writing is evolving. My focus today is not just programming, but mastering the **infrastructure**, the **context**, and protocols such as **MCP (Model Context Protocol)** and multi-agent architectures to manage complex systems where AI is the main engine.
 
 #### Reach me out!
 
