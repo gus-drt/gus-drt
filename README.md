@@ -12,7 +12,7 @@ Currently, I am pursuing a Bachelor's degree in Artificial Intelligence at **UFG
 * **Studies:** Deep immersion in **NLP** and **MLOps**, actively participating in study groups at UFG focusing on real-world applications and the market.
 
 ### My Vision:
-I believe that code writing is evolving. My focus today is not just programming, but mastering the **infrastructure**, the **context**, and protocols such as **MCP (Model Context Protocol)** and multi-agent architectures to manage complex systems where AI is the main engine.
+I believe that code writing is evolving. My focus today is not just programming, but mastering the **infrastructure**, the **context**, **multi-agent architectures** and protocols such as **MCP (Model Context Protocol)** to manage complex systems where AI is the main engine.
 
 #### Reach me out!
 
