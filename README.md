@@ -1,6 +1,7 @@
 ## Hi, I'm Gustavo Duarte! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 **AI Researcher | NLP & MLOps Enthusiast | Creator of GraphNotes**
+
 Currently, I am pursuing a Bachelor's degree in Artificial Intelligence at **UFG**, where I work as a volunteer researcher at the **Center of Excellence in AI (CEIA)**. My current work focuses on Computer Vision applied to sustainability, developing infrastructure for classifying recyclable waste in partnership with the startup Hambis.
 
 ### ️ What am I working on:
