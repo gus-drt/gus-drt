@@ -2,17 +2,18 @@
 
 **AI Researcher | NLP & MLOps | AI Ethics**
 
-Currently, I am pursuing a Bachelor's degree in Artificial Intelligence at **UFG**, where I work as a volunteer researcher at the **Center of Excellence in AI (CEIA)**. My current work focuses on Computer Vision applied to sustainability, developing infrastructure for classifying recyclable waste in partnership with the startup Hambis.
+Currently, I am pursuing a Bachelor's degree in Artificial Intelligence at **UFG**, where I work as a researcher at the Center of Excellence in AI (CEIA). I ​​am also part of the educational team for the Applied AI Olympiad (OIAA), organized by the State Secretariat of Science, Technology, and Innovation (SECTI) in partnership with CEIA.
+In the Olympiad, we address the ethical use of AI and foster student agency through a heutagogical teaching model, focusing on real-world AI applications across three key areas: computer vision, natural language processing, and machine learning for tabular data.
 
 ### ️ What am I working on:
 * **GraphNotes:** Developing an open-source alternative for network thinking (bi-directional links) using Markdown and offline storage (IndexedDB). Currently in MVP phase.
 
-* **CEIA & AKCIT:** Scientific outreach and robotics demonstrations (humanoids and quadrupeds) to foster partnerships between universities and the private sector.
+* **CEIA & AKCIT:** Scientific outreach and robotics demonstrations (humanoids and quadrupeds) to foster partnerships between universities and the private sector. Member of the pedagogical team for the Applied AI Olympiad (OIAA)
 
-* **Studies:** Deep immersion in **NLP** and **MLOps**, actively participating in study groups at UFG focusing on real-world applications and the market.
+* **Studies:** Deep immersion in **NLP**, **MLOps**, **Data Analysis** and **AI Ethics and Governance**, actively participating in study groups at UFG focusing on real-world applications and the market.
 
 ### My Vision:
-I believe that code writing is evolving. My focus today is not just programming, but mastering the **infrastructure**, the **context**, **multi-agent architectures** and protocols such as **MCP (Model Context Protocol)** to manage complex systems where AI is the main engine.
+I believe that coding is evolving. My focus today goes beyond mere programming; it centers on mastering **infrastructure**, **context**, **multi-agent architectures**, and protocols like **MCP (Model Context Protocol)** to manage complex systems driven by AI. Furthermore, I have been studying AI governance and ethics, as well as how its use impacts students within academia and their cognitive development.
 
 #### Reach me out!
 
@@ -41,7 +42,7 @@ I believe that code writing is evolving. My focus today is not just programming,
 - 🧠 Machine Learning Operations  
 - 🤖 Multi Agent Systems
 - 🗣️ Natural Language Processing
-- 🛡️ AI Governance & Cybersecurity
+- 🛡️ AI Ethics & Governance
 
 ### Skills & Tools
 
